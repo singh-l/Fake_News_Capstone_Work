@@ -1,6 +1,6 @@
 # Fake_News_Capstone_Work
 Contains work done in Fake News Capstone Project
 
+<img src="https://scx2.b-cdn.net/gfx/news/2020/5-thepsycholog.jpg" width= "700">
 
-
-<img src="https://scx2.b-cdn.net/gfx/news/2020/5-thepsycholog.jpg" width= "500">
+Complete Report for the project can be found here -> 
